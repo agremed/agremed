@@ -2,10 +2,10 @@
 Agricultural Reformation : Mediterranean network
 
 ## Resource List:
-* http://agriculturaregenerativa.es
+* http://www.agriculturaregenerativa.es
     * NB: in Spanish Language
-* [Polyface Farms](http://www.polyfacefarm.com)
-* http://www.savoryinstitute.com
+* [Polyface Farms](http://www.polyfacefarms.com)
+* http://savory.global
 
 ## Notes:
 * ...
